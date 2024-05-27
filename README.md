@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **I am a BCA 2nd year student, currently learning MERN Stack with the help of YouTube, other Google resources, and Documentation. I mostly believe in self-learning. I am passionate about learning Full Stack Web Development and creating a user-friendly and responsive website. So, I spend my precious time to learn web frameworks like React, JS, Node js, and MongoDB and also take help from AI to learn faster and write better code for a website within less time for better output. I am also consistent with my learning because I believe consistency makes us perfect in our work day by day and helps to get a better position.**
+- 💬 Ask me about **I am a BCA 2nd year student, currently learning MERN Stack with the help of YouTube, other Google resources, and Documentation. I mostly believe in self-learning. I am passionate about learning Full Stack Web Development and creating a user-friendly and responsive website. So, I spend my precious time learning web frameworks like React, JS, Node js, and MongoDB, and I also get help from AI to learn faster and write better code for a website within less time for better output. I am also consistent with my learning because I believe consistency makes us perfect in our daily work and helps us get a better position.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/roushan-singh-645819236/**
 
