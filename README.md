@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roushan Singh</h1>
 <h3 align="center">Don't be inconsistant about your passion</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0aMJQJ1pKxCNRIDm8hlbBi&ust=1716920442319000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCIi5y5roYDFQAAAAAdAAAAABAX">
+<img align="right" alt="coding" width="400" src="https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roushan-code&label=Profile%20views&color=0e75b6&style=flat" alt="roushan-code" /> </p>
 
