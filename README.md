@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roushan-code&label=Profile%20views&color=0e75b6&style=flat" alt="roushan-code" /> </p>
 
-- 🔭 I’m currently working on [Mern-Stack-Ecommerce-with-Redux](https://mern-stack-ecommerce-with-redux.onrender.com/)
+- 🔭 I’m a passionate Mern Stack Developer.
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 **I am a BCA 2nd year student, currently learning MERN Stack with the help of YouTube, other Google resources, and Documentation. I mostly believe in self-learning. I am passionate about learning Full Stack Web Development and creating a user-friendly and responsive website. So, I spend my precious time learning web frameworks like React, JS, Node js, and MongoDB, and I also take help from AI to learn faster and write better code for a website within less time for better output. I am also consistent with my learning because I believe consistency makes us perfect in our daily work and helps us get a better position.**
+- 💬 **I am a BCA 2nd year student, currently learning MERN Stack with the help of YouTube, other Google resources, and Documentation. I am passionate about learning Full Stack Web Development and creating a user-friendly and responsive website. So, I spend my precious time learning web frameworks like React, JS, Node js, and MongoDB, and I also take help from AI to learn faster and write better code for a website within less time for better output. I am also consistent with my learning because I believe consistency makes us perfect in our daily work and helps us get a better position.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/roushan-singh-645819236/**
 
