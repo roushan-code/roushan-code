@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roushan-code&label=Profile%20views&color=0e75b6&style=flat" alt="roushan-code" /> </p>
 
-- 🔭 **I’m a passionate MERN Stack Developer currently pursuing my BCA (3rd year). My learning journey involves leveraging resources like YouTube, Google, and official documentation to master web frameworks such as React, JavaScript, Node.js, and MongoDB. I’m deeply interested in Full Stack Web Development and spend my time building responsive, user-friendly websites. To enhance my productivity and code quality, I also integrate AI tools into my workflow.**
-
-Contributing to open-source projects is my next goal. I’m eager to gain hands-on experience in understanding diverse codebases, improving my problem-solving skills, and collaborating with a wider community.
+- 🔭 **I’m a passionate MERN Stack Developer currently pursuing my BCA (3rd year). My learning journey involves leveraging resources like YouTube, Google, and official documentation to master web frameworks such as React, JavaScript, Node.js, and MongoDB. I’m deeply interested in Full Stack Web Development and spend my time building responsive, user-friendly websites.**
+  
+To enhance my productivity and code quality, I integrate AI tools into my workflow. Recently, I participated in Hacktoberfest 2024 and GSSoC 2024, earning various badges for my contributions. These experiences have strengthened my skills in understanding diverse codebases, problem-solving, and collaborating with the open-source community. I am excited to continue making meaningful contributions to open-source projects while expanding my technical and collaborative abilities.
 
 - 📫 How to reach me **https://www.linkedin.com/in/roushan-singh-645819236/**
 
@@ -94,6 +94,17 @@ Contributing to open-source projects is my next goal. I’m eager to gain hands-
     <img  width="150" src="https://github.com/user-attachments/assets/31674636-e440-4331-9c5e-83c52acd5162" alt="Hacktoberfest_Stats" />
     <img  width="150" src="https://github.com/user-attachments/assets/2b17ab00-8cc3-4ffe-9464-05adf023713f" alt="Hacktoberfest_Stats" />
     <img  width="150" src="https://github.com/user-attachments/assets/abffdd2d-16d4-427d-a53e-b277594209cd" alt="Hacktoberfest_Stats" />
+</div>
+</details>
+<details>	
+ <summary><b> GSSoC_Stats </b></summary><br>
+<div style='display:flex; align-items:center; gap: 30;' align='center' height="50em">
+    <img  width="150" src="https://github.com/user-attachments/assets/b7faacb6-199d-4eaa-b5d3-43bb1e7b807a" alt="GSSoC_Stats"  />
+    <img  width="150" src="https://github.com/user-attachments/assets/ebbf35b2-6f43-4809-bb13-1a5d9a77ef30" alt="GSSoC_Stats" />
+    <img  width="150" src="https://github.com/user-attachments/assets/263ba011-1cdb-45ca-9b20-c556a5c48d77" alt="GSSoC_Stats" />
+    <img  width="150" src="https://github.com/user-attachments/assets/196a4788-65b7-4544-887b-2c3a3f2eb698" alt="GSSoC_Stats" />
+    <img  width="150" src="https://github.com/user-attachments/assets/bca8ff72-c854-445e-84b6-1ed5556dadd9" alt="GSSoC_Stats" />
+    <img  width="150" src="https://github.com/user-attachments/assets/340a4aff-61d2-4f93-beb4-c1762f477ba4" alt="GSSoC_Stats" />
 </div>
 </details>
 <br> 
