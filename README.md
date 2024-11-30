@@ -5,13 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roushan-code&label=Profile%20views&color=0e75b6&style=flat" alt="roushan-code" /> </p>
 
-- 🔭 I’m a passionate Mern Stack Developer.
+- 🔭 **I’m a passionate MERN Stack Developer currently pursuing my BCA (3rd year). My learning journey involves leveraging resources like YouTube, Google, and official documentation to master web frameworks such as React, JavaScript, Node.js, and MongoDB. I’m deeply interested in Full Stack Web Development and spend my time building responsive, user-friendly websites. To enhance my productivity and code quality, I also integrate AI tools into my workflow.**
 
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 **I’m a passionate MERN Stack Developer currently pursuing my BCA (3rd year). My learning journey involves leveraging resources like YouTube, Google, and official documentation to master web frameworks such as React, JavaScript, Node.js, and MongoDB. I’m deeply interested in Full Stack Web Development and spend my time building responsive, user-friendly websites. To enhance my productivity and code quality, I also integrate AI tools into my workflow.
-
-Contributing to open-source projects is my next goal. I’m eager to gain hands-on experience in understanding diverse codebases, improving my problem-solving skills, and collaborating with a wider community.**
+Contributing to open-source projects is my next goal. I’m eager to gain hands-on experience in understanding diverse codebases, improving my problem-solving skills, and collaborating with a wider community.
 
 - 📫 How to reach me **https://www.linkedin.com/in/roushan-singh-645819236/**
 
@@ -89,13 +85,16 @@ Contributing to open-source projects is my next goal. I’m eager to gain hands-
 </div>
 <br>
 
-<!-- # 🎖 Badges & Achievements
+ # 🎖 Badges & Achievements
 
 <details>	
- <summary><b> GSSoC'24 ExteExtended 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-    <img src="https://github.com/Amarjha01/Amarjha01/blob/main/assets/GSSoC24_Stats.png" alt="GSSoC24_Stats" />
+ <summary><b> Hacktoberfest_2024-> <button ><a href="https://www.holopin.io/@roushancode#" target="_blank">Verify</a></button></b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center' height="50em">
+    <img  width="150" src="https://github.com/user-attachments/assets/b445902c-eb45-4a2b-a29e-308a77f79ef1" alt="Hacktoberfest_Stats"  />
+    <img  width="150" src="https://github.com/user-attachments/assets/31674636-e440-4331-9c5e-83c52acd5162" alt="Hacktoberfest_Stats" />
+    <img  width="150" src="https://github.com/user-attachments/assets/2b17ab00-8cc3-4ffe-9464-05adf023713f" alt="Hacktoberfest_Stats" />
+    <img  width="150" src="https://github.com/user-attachments/assets/abffdd2d-16d4-427d-a53e-b277594209cd" alt="Hacktoberfest_Stats" />
 </div>
 </details>
-<br> -->
+<br> 
 
